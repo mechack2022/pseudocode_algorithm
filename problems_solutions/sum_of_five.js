@@ -1,3 +1,2 @@
 // this programs calculate the sum of five numbers
-
-[A
+console.log('sum of five');
